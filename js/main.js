@@ -55,6 +55,23 @@ if (autreTexte.length === 0) {
 
 }*/
 
+/*exercice2*/
+/*
+var adn = prompt("mettre l'année en cours");
+var ddn = prompt("année de naisance");
+var resultat = (adn-ddn);
+alert("Vous avez:"+resultat);*/
+
+/*exercice3*/
+
+var chaus =70;
+var jean = 59;
+var Tshirt = 20;
+var total = (chaus+jean+Tshirt);
+var remise = (total*0.80);
+console.log (remise);
+
+
 
 
 
